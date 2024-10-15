@@ -12,9 +12,9 @@ I boldly stated that Taylor Swift's 2017 album, reputation, was better than her 
 4. A
 5. List
 
-*and
-*wowee
-*these
--are
--bullet
--points
+* and
+* wowee
+* these
+- are
+- bullet
+- points
